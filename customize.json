@@ -3,11 +3,11 @@
   "name": "周清媛！",
   "greetingText": "这是一个迟到的生日礼物",
   "wishText": "希望你可以一直开心! ;)",
-  "imagePath": "img/zqy.jpg",
+  "imagePath": "img/yuanyuan.jpg",
   "text1": "我觉得你很可爱！！:)",
   "textInChatBox": "我可以跟你说很多俗套的生日祝福...",
-  "sendButtonLabel": "Send",
-  "text2": "That's what I was going to do.",
+  "sendButtonLabel": "send",
+  "text2": "所以我决定要做的事情是",
   "text3": "但是我才发现",
   "text4": "我想做一点特别的事情",
   "text4Adjective": "特别",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "笑一个!!!!!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
+  "outroText": "好了！希望你不要感动到哭",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
