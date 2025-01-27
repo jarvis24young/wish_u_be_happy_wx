@@ -29,7 +29,12 @@ body {
   position: fixed;
   top: 0;
 }
-
+.lydia-dp {
+  display: block;          /* 将图片设置为块级元素 */
+  margin: 0 auto;          /* 自动水平居中 */
+  max-width: 100%;         /* 防止图片超出父容器 */
+  height: auto;            /* 保持图片的纵横比 */
+}
 .container > div {
   position: absolute;
   left: 0;
